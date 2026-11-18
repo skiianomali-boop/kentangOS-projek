@@ -58,7 +58,7 @@ Untuk menjalankan **kentangOS 1.0** beserta lingkungan desktop XFCE4 secara lanc
 
 ## 🤝 Kontribusi & Pelaporan Bug
 
-Proyek ini dikembangkan secara terbuka. Jika menemukan *bug*, kendala kompatibilitas perangkat keras, atau ingin memberikan saran pengembangan, silakan buka tiket baru melalui halaman [**Issues**](https://github.com).
+Proyek ini dikembangkan secara terbuka. Jika menemukan *bug*, kendala kompatibilitas perangkat keras, atau ingin memberikan saran pengembangan, silakan buka tiket baru melalui halaman [**Issues**](https://github.com/skiianomali-boop/kentangOS-projek/issues/1).
 
 ---
 os ini di kembangkan murni untuk iseng namun gw berfikir ingin seriusin mulai sekarang btw mungkin bug tak dapat ku perbaiki
