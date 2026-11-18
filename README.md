@@ -64,4 +64,4 @@ Proyek ini dikembangkan secara terbuka. Jika menemukan *bug*, kendala kompatibil
 os ini di kembangkan murni untuk iseng namun gw berfikir ingin seriusin mulai sekarang btw mungkin bug tak dapat ku perbaiki
 dengan cepat karna aku masih bersekolah di bangku smp jadi yaa mohon di maklumi tapi tiap minggu gw pasti bacain jika ada bug report
 
-*Dikembangkan secara independen sejak Januari 2026 oleh Rajo kentangOS...*
+*Dikembangkan secara independen sejak putus pada Januari 2026 oleh Rajo kentangOS...*
